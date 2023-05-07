@@ -13,7 +13,7 @@ public class DeleteTable {
                     <tableName> <key>
 
                 Where:
-                    tableName - The Amazon DynamoDB table to create (for example, Music3).
+                    tableName - The Amazon DynamoDB table to delete (for example, Music3).
                 *Warnings* - These program will delete the tables that you specify .
                     
                 """;
